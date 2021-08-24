@@ -1,0 +1,42 @@
+body{background-color: aquamarine;}
+#paragrafo01{
+    font-size: 1.5em;
+    background-image: linear-gradient(to right,#fff000,#fdfdfd);
+}
+#paragrafo02{
+    font-family: impact, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+    font-size: 15px;
+    font-weight: 900;
+    padding-left: 50px;
+    padding-top: 100px;
+}
+span{background-color: brown;}
+.format{
+    background-color: chartreuse;
+    color:rgb(255, 255, 255);
+    font-size: 23px;
+    text-align: center;
+}
+abbr:hover{
+    background-color:darkmagenta
+}
+#paragrafo05{
+    border-radius: 15px;
+    border: 2px solid rgb(255,255,0);
+    /* h-hue - matiz*/
+    /*s saturation - saturação*/
+    /*l luminosity - luminosidade*/
+    /*a alpha - transparency - transparencia*/
+}
+#paragrafo06{
+    border: 2px solid red;
+    font-size: 40px;
+    max-width: max-content;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: 30px;
+}
+body{
+    border: 6px solid black;
+}
+a{text-decoration: none;}
